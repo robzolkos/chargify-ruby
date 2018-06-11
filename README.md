@@ -1,4 +1,4 @@
-# Chargify Ruby
+# Chargify Ruby [WORK IN PROGRESS]
 
 A Ruby wrapper for Chargify
 
